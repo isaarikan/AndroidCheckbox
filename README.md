@@ -1,2 +1,2 @@
 # AndroidCheckbox
-Geleceği Yazan Kadınlar Eğitimi Checkbox Kullanımı
+Turkcell Geleceği Yazan Kadınlar Eğitimi Checkbox Kullanımı
